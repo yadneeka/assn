@@ -1,1 +1,2 @@
 echo "This is a new text file."
+echo "Added some new content to the text file."
